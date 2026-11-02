@@ -14,7 +14,10 @@ v3.0. The original copyright and license notices are kept unchanged in
   - its own grouping and recommended-selection rules for the clean preview;
   - an extra, evidence-based leftover search for app removal;
   - a build script that packages an ad-hoc signed `.app` and `.dmg`.
-- Files outside `app/` and this notice are unmodified upstream code.
+- **2026-11-03**: replaced the root `README.md` with Burrow's README. Mole's
+  original README is kept unchanged as `README_MOLE.md`, and the "English" link
+  in each translated README (`README_CN.md` and the others) now points to it.
+- All other files outside `app/` and this notice are unmodified upstream code.
 
 ## License
 
