@@ -1,0 +1,4 @@
+.build/
+.build-bundle/
+dist/
+.swiftpm/
